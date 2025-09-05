@@ -1,0 +1,19 @@
+{
+"coupons" :
+[
+  { 
+  "name" : "신규고객 10% 할인 고객",
+  "discount_rate" : 0.1,
+  "exp_date" : "2024-09-27",
+  "isExpired" : false,
+  "used" : true
+  },
+  { 
+  "name" : "N월 한정 할인 쿠폰",
+  "discount_rate" : 0.2,
+  "exp_date" : "2024-08-27",
+  "isExpired" : false,
+  "used" : false
+  }
+]
+}
